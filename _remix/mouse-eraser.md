@@ -23,9 +23,3 @@ tags:
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-
-<iframe height="265" style="width: 100%;" scrolling="no" title="Mouse eraser" src="https://codepen.io/vasilis22/embed/Pozzxqr?height=265&theme-id=light&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/vasilis22/pen/Pozzxqr'>Mouse eraser</a> by vasilis22
-  (<a href='https://codepen.io/vasilis22'>@vasilis22</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>

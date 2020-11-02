@@ -17,9 +17,9 @@ tags:
 
 Άσκηση: Τροποποιήστε το παράδειγμα ενσωματώνοντας στο υπάρχον μενού περιεχόμενο της επιλογής σας. Αντί για CSS, χρησιμοποιήστε τον Preprocessor SCSS.
 
-<p class="codepen" data-height="405" data-theme-id="light" data-default-tab="html,result" data-user="vasilis22" data-slug-hash="PozevOb" style="height: 405px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="PozevOb">
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="vasilis22" data-slug-hash="PozevOb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pure CSS Circle Menu">
   <span>See the Pen <a href="https://codepen.io/vasilis22/pen/PozevOb">
-  PozevOb</a> by vasilis22 (<a href="https://codepen.io/vasilis22">@vasilis22</a>)
+  Pure CSS Circle Menu</a> by vasilis22 (<a href="https://codepen.io/vasilis22">@vasilis22</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>

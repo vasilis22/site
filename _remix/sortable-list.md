@@ -19,9 +19,10 @@ tags:
 
 Άσκηση: Αλλάξτε το χρώμα ή/και το ύψος των στοιχείων της λίστας καθώς και την απόσταση μεταξύ τους
 
-<p class="codepen" data-height="350" data-theme-id="0" data-default-tab="result" data-user="vasilis22" data-slug-hash="QWEPKeg" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="QWEPKeg">
+<p class="codepen" data-height="350" data-theme-id="0" data-default-tab="result" data-user="vasilis22" data-slug-hash="QWEPKeg" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Sortable list">
   <span>See the Pen <a href="https://codepen.io/vasilis22/pen/QWEPKeg">
-  QWEPKeg</a> by vasilis22 (<a href="https://codepen.io/vasilis22">@vasilis22</a>)
+  Sortable list</a> by vasilis22 (<a href="https://codepen.io/vasilis22">@vasilis22</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+<script async src="https://cpwebassets.sfo2.cdn.digitaloceanspaces.com/assets/embed/ei.js"></script>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
